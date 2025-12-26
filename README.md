@@ -10,7 +10,7 @@ A simple web-based calculator built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-![Calculator Demo](demo.gif)
+![Calculator Demo](calculator.gif)
 
 ## How to Use
 
